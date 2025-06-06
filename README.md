@@ -41,39 +41,35 @@ This DigiSpark script automates:
 ## 🔧 Customization
 ### Modify the Prompt
 Edit in code:
-
-DigiKeyboard.print("write me a funny clean essay...");
-
--Adjust Timing (if needed)
+```cpp
+DigiKeyboard.print("Write me a funny clean essay on a random topic that is around 800 words, no notes from you before or after just the essay, no bold letters or anything, not about socks");
+```
+- Adjust Timing (if needed)
 
 Increase delays: DigiKeyboard.delay(5000) → 8000
 
 Test on your system first
 
 ## ⚠️ Important Notes
--🔠 Works best with US keyboard layout
+- 🔠 Works best with US keyboard layout
 
--🕵️ DeepSeek’s UI may change → update script as needed
+- 🕵️ DeepSeek’s UI may change → update script as needed
 
--⚠️ For ethical/educational use only
+- ⚠️ For ethical/educational use only
 
-## 📂 Repo Structure
-DigiSpark-DeepSeek-Writer/
-├── DigiSpark_DeepSeek_Essay_Writer.ino  # Main script
-├── README.md                            # This guide
-└── LICENSE                              # MIT License
+
 ## 🎯 Use Cases
--🤖 Automate AI content generation
+- 🤖 Automate AI content generation
 
--🎒 Quick essay drafts for students
+- 🎒 Quick essay drafts for students
 
--🧪 USB automation experiments
+- 🧪 USB automation experiments
 
--🦆 DigiSpark/Rubber Ducky testing
+- 🦆 DigiSpark/Rubber Ducky testing
 
 ## 📜 License
 MIT License - Free for personal/educational use.
 By using this, you agree to use it responsibly.
 
--💡 Pro Tip: Add LED indicators for visual debugging!
--🐛 Found an issue? Open a GitHub ticket!
+- 💡 Pro Tip: Add LED indicators for visual debugging!
+- 🐛 Found an issue? Open a GitHub ticket!
