@@ -18,7 +18,7 @@ This DigiSpark script automates:
 
 ## 🛠️ Hardware Requirements
 - **DigiSpark (ATTiny85)** or compatible USB dev board
-- Arduino IDE with [Digistump packages](https://digistump.com/wiki/digispark/tutorials/connecting) installed
+- Arduino IDE with Digistump packages installed
 
 ---
 
