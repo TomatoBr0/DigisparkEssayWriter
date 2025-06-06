@@ -35,14 +35,13 @@ This DigiSpark script automates:
 ✅ Copies AI response  
 ✅ Pastes into blank page  
 
-![Demo GIF](https://via.placeholder.com/600x400?text=Plug+and+Play+Demo) *(Replace with actual GIF)*
 
 ---
 
 ## 🔧 Customization
 ### Modify the Prompt
 Edit in code:
-```cpp
+
 DigiKeyboard.print("write me a funny clean essay...");
 Adjust Timing (if needed)
 If script fails:
